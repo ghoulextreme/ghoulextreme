@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 ghoulextreme
 
-**`Desenvolvedora FullStack`**
+**`Estudante do ensino Médio`**
 
-Me chamo nathan, vivo em São Paulo e sou uma pessoa comum. Passo o dia me distraindo com futilidades diárias e perco muito do meu aprendizado, não me orgulho disso, mas faço assim como qualquer outro. Tenho uma extrema ambição sobre crescer na vida, almejo o topo, mas hoje acho difícil que eu alcance. Mesmo 
+Me chamo nathan, vivo em São Paulo e sou uma pessoa comum. Passo o dia me distraindo com futilidades diárias e perco muito do meu aprendizado, não me orgulho disso, mas faço assim como qualquer outro. Tenho uma extrema ambição sobre crescer na vida, almejo o topo, mas hoje acho difícil que eu alcance. Mesmo sabendo o problema que tenho, pouco consigo fazer para mudar. 
+Hoje estou no ensino médio, mas não tenho perspectiva de crescimento no mesmo, muito disso vai pela motivação, n vejo sentido em aprender muitas coisas que não quero, coisas que não vão me ajudar no que quero. Vejo o conhecimento como importante, muitas vezes como a base a vida de alguém, a base da própria capacidade da pessoa de ser um humano, também dou muita importância ao tempo, por isso tenho problemas, acredito nisso ao menos. No fim do dia pratico basquetebol, algo que gostaria de seguir na vida, mas não acredito que vou conseguir. 
+Tenho boas habilidades sociais, me considero minimamente inteligente, detenho uma alta gama de conhecimento e acredito ser bom em contas básicas. Sei que posso agregar muito num ambiente de trabalho, mesmo não demonstrando no texto, minha vontade de crescer fará com que eu faça de tudo buscando uma certa perfeição naquilo.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
